@@ -1,20 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.copyblogger.com/testimonials-part-1/'
+inLanguage: null
+starred: false
+keywords: []
 description: The Secret Life of Testimonials
+datePublished: '2016-02-01T22:23:02.335Z'
+dateModified: '2016-02-01T22:14:06.474Z'
 author: []
-datePublished: '2016-02-01T21:44:15.483Z'
-publisher:
-  domain: www.copyblogger.com
-  name: copyblogger.com
-dateModified: '2016-02-01T21:35:12.182Z'
 title: ''
 sourcePath: _posts/2016-02-01-the-secret-life-of-testimonials.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: the-secret-life-of-testimonials/index.html
+authors: []
+publisher:
+  name: copyblogger.com
+  domain: www.copyblogger.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-The Secret Life of Testimonials
+[_The Secret Life of Testimonials_][0]
+
+[0]: http://www.copyblogger.com/testimonials-part-1/
