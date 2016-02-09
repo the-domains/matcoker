@@ -1,6 +1,6 @@
 name: MatCoker
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74706
 typography_spectrum: 0.87882
 title: 'This Site Makes Me Want to Cry :('
 cta:
@@ -22,8 +22,8 @@ color:
     - '#b7b7b7'
     - '#484848'
     - '#676767'
-  brandStrength: 1
+  brandStrength: 0.9375
   lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
