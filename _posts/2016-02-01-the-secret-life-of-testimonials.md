@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Secret Life of Testimonials
-datePublished: '2016-02-01T22:23:02.335Z'
-dateModified: '2016-02-01T22:14:06.474Z'
+datePublished: '2016-02-09T16:29:27.500Z'
+dateModified: '2016-02-09T14:59:38.481Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-01-the-secret-life-of-testimonials.md
@@ -23,6 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-[_The Secret Life of Testimonials_][0]
+_**[The Secret Life of Testimonials][0]**_
 
-[0]: http://www.copyblogger.com/testimonials-part-1/
+[0]: null
