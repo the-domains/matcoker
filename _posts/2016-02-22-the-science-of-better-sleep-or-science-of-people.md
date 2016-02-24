@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.scienceofpeople.com'
-  name: Science of People
-  favicon: 'http://3t6qoe2vhteu3gc6po1psr9i.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/new_logo_asterisk.png'
-  domain: www.scienceofpeople.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.scienceofpeople.com/2015/07/the-science-of-better-sleep/'
+inLanguage: en
+starred: false
 keywords:
   - sleep
   - wake
@@ -18,19 +17,22 @@ keywords:
   - light
   - night
 description: 'This article is written by Kyle McNatt, an Engineer, Entrepreneur, Copywriter, and Body Language Trainer certified through the Science of People. He helps entrepreneurs succeed. You can contact him by email at: kyle@advantagebodylanguage.com, or follow him on Twitter. Sleep is wonderful. It is amazing, and it is absolutely necessary for a long and happy life.'
-inLanguage: en
+datePublished: '2016-02-24T20:37:01.014Z'
+dateModified: '2016-02-24T20:36:58.536Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.scienceofpeople.com/2015/07/the-science-of-better-sleep/'
 title: 'The Science of Better Sleep | Science of People'
-datePublished: '2016-02-22T21:03:46.609Z'
-dateModified: '2016-02-22T21:03:35.653Z'
 sourcePath: _posts/2016-02-22-the-science-of-better-sleep-or-science-of-people.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Science of People
+  domain: www.scienceofpeople.com
+  url: 'http://www.scienceofpeople.com'
+  favicon: 'http://3t6qoe2vhteu3gc6po1psr9i.wpengine.netdna-cdn.com/wp-content/uploads/2013/11/new_logo_asterisk.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Science of Better Sleep &amp;vert; Science of People</h1><p>This article is written by Kyle McNatt&amp;comma; an Engineer&amp;comma; Entrepreneur&amp;comma; Copywriter&amp;comma; and Body Language Trainer certified through the Science of People&amp;period; He helps entrepreneurs succeed&amp;period; You can contact him by email at&amp;colon; kyle&amp;commat;advantagebodylanguage&amp;period;com&amp;comma; or follow him on Twitter&amp;period; Sleep is wonderful&amp;period; It is amazing&amp;comma; and it is absolutely necessary for a long and happy life&amp;period;</p><img src="http://www.scienceofpeople.com/wp-content/uploads/2015/06/Better-Sleep.png" /></article>
+<article style=""><h1>The Science of Better Sleep | Science of People</h1><p>This article is written by Kyle McNatt, an Engineer, Entrepreneur, Copywriter, and Body Language Trainer certified through the Science of People. He helps entrepreneurs succeed. You can contact him by email at: kyle@advantagebodylanguage.com, or follow him on Twitter. Sleep is wonderful. It is amazing, and it is absolutely necessary for a long and happy life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa8fb548bcf3a1377be6b91b31c0ba0fa0e6e710.png" /></article>
