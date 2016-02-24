@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://kopywritingkourse.com'
   name: Kopywriting Kourse
-  favicon: 'http://kopywritingkourse.com/wp-content/themes/Builder-Attent/lib/builder-core/favicons/star.ico'
   domain: kopywritingkourse.com
+  url: 'http://kopywritingkourse.com'
+  favicon: 'http://kopywritingkourse.com/wp-content/themes/Builder-Attent/lib/builder-core/favicons/star.ico'
 keywords:
   - calculator
   - products
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://kopywritingkourse.com/product-pricing-calculator/'
 title: 'Free Revenue & Product Pricing Calculator'
-datePublished: '2016-02-11T14:21:37.652Z'
-dateModified: '2016-02-11T14:21:17.839Z'
+datePublished: '2016-02-24T21:18:36.763Z'
+dateModified: '2016-02-24T19:40:06.362Z'
 sourcePath: _posts/2016-02-11-free-revenue-and-product-pricing-calculator.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
