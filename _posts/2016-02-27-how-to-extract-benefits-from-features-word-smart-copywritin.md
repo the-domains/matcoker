@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Your marketing copywriting should focus on benefits rather than features, right? But how do you figure out the benefits? This copywriting tutorial shows you how a professional copywriter (me) does it. Don't forget to check out The Copy Detective blog where you can read more copywriting tips."
-datePublished: '2016-02-28T03:35:26.483Z'
-dateModified: '2016-02-28T03:35:17.333Z'
+datePublished: '2016-02-28T03:38:33.184Z'
+dateModified: '2016-02-28T03:35:31.376Z'
 author:
   - name: Belinda Weaver
     url: 'https://www.youtube.com/user/CopywriteMattersTV'
