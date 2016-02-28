@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=VaNQCgvXa7Q'
+inLanguage: null
+starred: false
+keywords: []
+description: "Your marketing copywriting should focus on benefits rather than features, right? But how do you figure out the benefits? This copywriting tutorial shows you how a professional copywriter (me) does it. Don't forget to check out The Copy Detective blog where you can read more copywriting tips."
+datePublished: '2016-02-28T03:35:26.483Z'
+dateModified: '2016-02-28T03:35:17.333Z'
 author:
   - name: Belinda Weaver
     url: 'https://www.youtube.com/user/CopywriteMattersTV'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "Your marketing copywriting should focus on benefits rather than features, right? But how do you figure out the benefits? This copywriting tutorial shows you how a professional copywriter (me) does it. Don't forget to check out The Copy Detective blog where you can read more copywriting tips."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=VaNQCgvXa7Q'
 title: 'How to extract benefits from features: Word Smart copywriting tutorial'
-datePublished: '2016-02-27T01:31:27.534Z'
-dateModified: '2016-02-27T01:30:51.258Z'
 sourcePath: _posts/2016-02-27-how-to-extract-benefits-from-features-word-smart-copywritin.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
