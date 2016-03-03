@@ -4,8 +4,14 @@
         <description><![CDATA[This Site Makes Me Want to Cry :(]]></description>
         <link>https://thegrid.ai/matcoker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 03:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 21:22:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matcoker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/matcoker/f8430a89-5edf-4723-8832-6d3c5e9f4a3f/index.html</link>
+            <guid isPermaLink="false">f8430a89-5edf-4723-8832-6d3c5e9f4a3f</guid>
+            <pubDate>Thu, 03 Mar 2016 21:21:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Is Content Marketing? - Copyblogger]]></title>
             <description><![CDATA[<article><h1>What Is Content Marketing? - Copyblogger</h1><p>Listen. If you are even remotely connected to the business, marketing, and advertising world, then you've probably heard the phrase " content marketing." You've at least been exposed to it through: Blogs Podcasts Videos Search engine optimization Email autoresponders White papers Copywriting Social media Landing pages But what exactly is content marketing?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b5d55d51cb0c1ff1b90196e8e95df2e8e6cdb68.jpg"></article>]]></description>
@@ -68,13 +74,6 @@
             <link>https://moz.com/blog/most-entertaining-guide-to-landing-page-optimization</link>
             <guid isPermaLink="false">35ccc0ef-e64f-4f7b-96ef-1cab6896ca0b</guid>
             <pubDate>Mon, 22 Feb 2016 03:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Canva]]></title>
-            <description><![CDATA[<article><h1>About Canva</h1><p>Easily create beautiful designs + documents. Use Canva's drag-and-drop feature and professional layouts to design consistently stunning graphics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb71168eef570020eac8a91abab888cc56ff15f3.jpg"></article>]]></description>
-            <link>https://about.canva.com/</link>
-            <guid isPermaLink="false">306e3874-f15d-42dc-8bed-203379316b8b</guid>
-            <pubDate>Fri, 19 Feb 2016 19:32:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
