@@ -17,8 +17,8 @@ keywords:
   - light
   - night
 description: 'This article is written by Kyle McNatt, an Engineer, Entrepreneur, Copywriter, and Body Language Trainer certified through the Science of People. He helps entrepreneurs succeed. You can contact him by email at: kyle@advantagebodylanguage.com, or follow him on Twitter. Sleep is wonderful. It is amazing, and it is absolutely necessary for a long and happy life.'
-datePublished: '2016-02-24T20:37:01.014Z'
-dateModified: '2016-02-24T20:36:58.536Z'
+datePublished: '2016-03-06T03:21:09.589Z'
+dateModified: '2016-03-06T03:21:09.354Z'
 author: []
 related: []
 app_links: []
