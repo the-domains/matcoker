@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://sumome.com'
-  name: SumoMe
-  favicon: 'https://sumome.com/favicon.ico'
-  domain: sumome.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://sumome.com/stories/monetize-site-video-course'
+inLanguage: en
+starred: false
 keywords:
   - courses
   - emails
@@ -18,17 +17,20 @@ keywords:
   - online
   - students
 description: "Mar 9th, 2016 by Ashley Hockney Want to hear some grim statistics? Pretty depressing, isn't it? But luckily there's one piece of content out there that subscribers still value and will pay for, and that is an online course. When I Googled \"average cost of an online course\", the first article from US news reports a student spending upward of $1,000."
-inLanguage: en
+datePublished: '2016-03-24T20:45:50.074Z'
+dateModified: '2016-03-24T20:43:00.647Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://sumome.com/stories/monetize-site-video-course'
 title: 'SumoMe, free tools to grow your website traffic.'
-datePublished: '2016-03-24T20:42:05.403Z'
-dateModified: '2016-03-24T20:41:25.543Z'
 sourcePath: _posts/2016-03-24-sumome-free-tools-to-grow-your-website-traffic.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SumoMe
+  domain: sumome.com
+  url: 'https://sumome.com'
+  favicon: 'https://sumome.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
