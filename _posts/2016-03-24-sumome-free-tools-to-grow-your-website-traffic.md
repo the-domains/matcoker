@@ -17,8 +17,8 @@ keywords:
   - online
   - students
 description: "Mar 9th, 2016 by Ashley Hockney Want to hear some grim statistics? Pretty depressing, isn't it? But luckily there's one piece of content out there that subscribers still value and will pay for, and that is an online course. When I Googled \"average cost of an online course\", the first article from US news reports a student spending upward of $1,000."
-datePublished: '2016-03-24T20:45:50.074Z'
-dateModified: '2016-03-24T20:43:00.647Z'
+datePublished: '2016-04-07T20:20:30.243Z'
+dateModified: '2016-04-07T20:20:29.954Z'
 author: []
 related: []
 app_links: []
